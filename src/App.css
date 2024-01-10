@@ -1,0 +1,26 @@
+.portfolio {
+  width: 40vw;
+  align-self: center;
+}
+
+.toolbar {
+  margin-bottom: 1%;
+}
+
+.filter-btn {
+  font-weight: bold;
+  background-color: white;
+  border: 1px solid black;
+  padding: 1%;
+  margin-right: 1%;
+  cursor: pointer;
+}
+
+.filter-btn-selected {
+  background-color: grey;
+  color: white;
+}
+
+.project-list {
+  column-count: 3;    
+}  
